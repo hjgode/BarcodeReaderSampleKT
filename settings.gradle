@@ -1,0 +1,2 @@
+include ':app', ':DataCollection'
+rootProject.name='BarcodeReaderSampleKT'
